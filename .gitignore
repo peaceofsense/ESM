@@ -1,0 +1,14 @@
+# Data files (too large, often licensed)
+data/
+*.csv
+*.geojson
+*.tif
+*.gpkg
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment
+__pycache__/
+*.pyc
+.env
