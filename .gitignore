@@ -1,12 +1,19 @@
-# Data files (too large, often licensed)
-data/
+# Data files
 *.csv
 *.geojson
 *.tif
+*.tiff
 *.gpkg
+*.nc
+*.html
+data/
 
 # Notebook checkpoints
 .ipynb_checkpoints/
+
+# Build outputs
+_build/
+tmp/
 
 # Environment
 __pycache__/
